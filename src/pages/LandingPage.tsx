@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 
 import logoKatti from "@/assets/images/logo.png";
-import imgHeroBrand from "@/assets/images/hero-brand.png";
+import imgHeroBrand from "@/assets/images/hero-brand-new.png";
 import imgKattiDesk from "@/assets/images/katti-desk.png";
 import imgKattiWhiteSit from "@/assets/images/katti-white-sit.jpeg";
 import imgKattiBrown from "@/assets/images/katti-brown.jpeg";
