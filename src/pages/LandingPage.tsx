@@ -78,7 +78,7 @@ function Nav({ compact }: { compact: boolean }) {
     }}>
       <img
         src={logoKatti}
-        alt="Katti Eleres"
+        alt="Katti Elleres"
         style={{
           height: compact ? 36 : 42,
           width: "auto",
@@ -103,7 +103,7 @@ function Hero() {
       <div style={{ position: "relative", width: "100%", height: 420, overflow: "hidden" }}>
         <img
           src={imgHeroBrand}
-          alt="Katti Eleres"
+          alt="Katti Elleres"
           style={{
             width: "100%", height: "100%",
             objectFit: "cover",
@@ -266,7 +266,7 @@ function Problema() {
       <div className="reveal" style={{ position: "relative", width: "100%", height: 300, overflow: "hidden" }}>
         <img
           src={imgKattiBrown}
-          alt="Katti Eleres"
+          alt="Katti Elleres"
           style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center 15%", filter: "brightness(0.75) contrast(1.05)" }}
         />
         <div style={{
@@ -458,7 +458,7 @@ function Oferta() {
         </h2>
         <div className="reveal gold-line" />
         <p className="reveal s-body" style={{ marginBottom: 8 }}>
-          No dia <strong style={{ color: "var(--creme)" }}>27/05</strong> Katti Eleres conduz o 2º Workshop: Conexão com Propósito —
+          No dia <strong style={{ color: "var(--creme)" }}>27/05</strong> Katti Elleres conduz o 2º Workshop: Conexão com Propósito —
         </p>
         <p className="reveal" style={{ fontFamily: "Cormorant Garamond, serif", fontSize: 20, fontStyle: "italic", color: "var(--ouro-light)", marginBottom: 10 }}>NR1 & Comportamento</p>
         <p className="reveal s-body" style={{ marginBottom: 36 }}>Quem decide agora, acessa um preço especial. Após as primeiras vagas, o valor volta para R$227.</p>
@@ -496,7 +496,7 @@ function Oferta() {
               Sessão de Realinhamento e Ativação de Consciência
             </h3>
             <p style={{ fontSize: 13, color: "var(--texto)", lineHeight: 1.7, marginBottom: 8 }}>
-              40–50 minutos individuais com Katti Eleres.<br />Não é conteúdo. É uma experiência.
+              40–50 minutos individuais com Katti Elleres.<br />Não é conteúdo. É uma experiência.
             </p>
             <p style={{ fontSize: 10, fontWeight: 700, color: "var(--alerta)", letterSpacing: "1.5px", textTransform: "uppercase" }}>
               ⚠ Quando essas vagas acabarem… acabou.
@@ -524,14 +524,14 @@ function Katti() {
       <div className="reveal" style={{ position: "relative", width: "100%", height: 460, overflow: "hidden" }}>
         <img
           src={imgKattiWhiteSit}
-          alt="Katti Eleres"
+          alt="Katti Elleres"
           style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center 5%", filter: "brightness(0.82) contrast(1.06)" }}
         />
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, transparent 40%, rgba(13,31,20,0.98) 100%)" }} />
         <div style={{ position: "absolute", bottom: 28, left: 28, right: 28, zIndex: 2 }}>
           <span className="s-eyebrow">Quem conduz</span>
           <h2 style={{ fontFamily: "Cormorant Garamond, serif", fontSize: "clamp(44px, 12vw, 64px)", fontWeight: 400, lineHeight: 0.95, color: "var(--creme)" }}>
-            Katti <em style={{ fontStyle: "italic", color: "var(--ouro)" }}>Eleres</em>
+            Katti <em style={{ fontStyle: "italic", color: "var(--ouro)" }}>Elleres</em>
           </h2>
         </div>
       </div>
@@ -558,7 +558,7 @@ function Katti() {
           <p style={{ fontFamily: "Cormorant Garamond, serif", fontSize: 18, fontStyle: "italic", fontWeight: 500, lineHeight: 1.5 }}>
             "Antes de cumprir normas, é preciso despertar consciência."
           </p>
-          <p style={{ fontSize: 9, fontWeight: 700, marginTop: 8, letterSpacing: "2px", textTransform: "uppercase", opacity: 0.6 }}>— Katti Eleres</p>
+          <p style={{ fontSize: 9, fontWeight: 700, marginTop: 8, letterSpacing: "2px", textTransform: "uppercase", opacity: 0.6 }}>— Katti Elleres</p>
         </div>
 
         <div className="reveal" style={{ display: "flex", flexWrap: "wrap", gap: 8, marginBottom: 28 }}>
@@ -642,7 +642,7 @@ function Footer() {
     <footer style={{ background: "var(--verde-mid)", borderTop: "1px solid rgba(255,255,255,0.06)", padding: "32px 24px", textAlign: "center" }}>
       <img
         src={logoKatti}
-        alt="Katti Eleres"
+        alt="Katti Elleres"
         style={{
           height: 52,
           width: "auto",
